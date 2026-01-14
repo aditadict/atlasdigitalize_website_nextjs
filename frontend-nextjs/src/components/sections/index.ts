@@ -1,0 +1,9 @@
+export { default as HeroSection } from "./HeroSection";
+export { default as TrustStrip } from "./TrustStrip";
+export { default as PhilosophySection } from "./PhilosophySection";
+export { default as ExpertiseSection } from "./ExpertiseSection";
+export { default as HowWeWorkSection } from "./HowWeWorkSection";
+export { default as ProjectsSection } from "./ProjectsSection";
+export { default as ClientsSection } from "./ClientsSection";
+export { default as InsightsSection } from "./InsightsSection";
+export { default as FinalCtaSection } from "./FinalCtaSection";
